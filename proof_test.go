@@ -8,8 +8,8 @@ import (
 	"github.com/stretchr/testify/require"
 
 	"github.com/tendermint/go-amino"
-	"github.com/tendermint/tendermint/libs/db"
-	"github.com/tendermint/tendermint/libs/test"
+	"github.com/renlulu/tendermint/libs/db"
+	"github.com/renlulu/tendermint/libs/test"
 )
 
 func TestTreeGetWithProof(t *testing.T) {

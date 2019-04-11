@@ -7,8 +7,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/tendermint/iavl"
-	db "github.com/tendermint/tendermint/libs/db"
+	"github.com/renlulu/iavl"
+	db "github.com/renlulu/tendermint/libs/db"
 )
 
 const historySize = 20

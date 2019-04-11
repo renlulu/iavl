@@ -9,8 +9,8 @@ import (
 	"io"
 
 	"github.com/tendermint/go-amino"
-	"github.com/tendermint/tendermint/crypto/tmhash"
-	cmn "github.com/tendermint/tendermint/libs/common"
+	"github.com/renlulu/tendermint/crypto/tmhash"
+	cmn "github.com/renlulu/tendermint/libs/common"
 )
 
 // Node represents a node in a Tree.
